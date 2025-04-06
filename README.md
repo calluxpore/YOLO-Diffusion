@@ -1,5 +1,8 @@
 ## 👁️ YOLO Eye Detection & Diffusion Pipeline
-An end-to-end system combining YOLOv8 for eye detection with ComfyUI diffusion models for creative AI-based editing on images, videos, and webcam feeds.
+An end-to-end system combining YOLOv8 for eye detection with ComfyUI/Forge UI diffusion models for creative AI-based editing on images, videos, and webcam feeds.
+
+
+![Sample YOLO+Diffusion Output](Sample_Diffusion_Yolo.png)
 
 ---
 
